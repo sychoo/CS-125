@@ -1,0 +1,36 @@
+Username:  chus
+Date:      Thu Feb 2 16:56:13 EST 2017
+ 
+*** Running inches.py ***
+
+Table of Inch and Centimeter Equivalents
+Written by Simon Chu
+
+Inches    Centimeters
+======    ===========
+  0 in    0.0
+  10 in    25.4
+  20 in    50.8
+  30 in    76.2
+  40 in    101.6
+  50 in    127.0
+  60 in    152.4
+  70 in    177.8
+  80 in    203.2
+  90 in    228.6
+  100 in    254.0
+
+Centimeters    Inches
+===========    ======
+  0 cm         0.0 in
+  10 cm         3.937 in
+  20 cm         7.874 in
+  30 cm         11.811 in
+  40 cm         15.748 in
+  50 cm         19.685 in
+  60 cm         23.622 in
+  70 cm         27.559 in
+  80 cm         31.496 in
+  90 cm         35.433 in
+  100 cm         39.37 in
+

@@ -1,0 +1,119 @@
+Username:  chus
+Date:      Fri Mar 24 11:23:41 EDT 2017
+ 
+*** Compiling ***
+--- Running ---
+ 
+
+Program to allow one to launch a pumpkin.
+You will enter the distance to the target.
+Then you will enter an angle and a velocity.
+The game will end if you have not hit the
+target in 5 tries (must conserve pumpkins!).
+Written by Simon Chu.
+
+Please enter a distance in feet: 
+
+Enter the angle and velocity for try #1: 
+
+For an angle of 30 degrees and velocity of 60,
+the pumpkin landed short by 3.1772840489447702 feet.
+
+Enter the angle and velocity for try #2: 
+
+For an angle of 30 degrees and velocity of 61,
+the pumpkin hit the target! You win!
+
+--- Running again 2 ---
+ 
+
+Program to allow one to launch a pumpkin.
+You will enter the distance to the target.
+Then you will enter an angle and a velocity.
+The game will end if you have not hit the
+target in 5 tries (must conserve pumpkins!).
+Written by Simon Chu.
+
+Please enter a distance in feet: 
+
+Enter the angle and velocity for try #1: 
+
+For an angle of 45 degrees and velocity of 50,
+the pumpkin landed short by 22.36024844720498 feet.
+
+Enter the angle and velocity for try #2: 
+
+For an angle of 45 degrees and velocity of 55,
+the pumpkin landed short by 6.0559006211180275 feet.
+
+Enter the angle and velocity for try #3: 
+
+For an angle of 45 degrees and velocity of 60,
+the pumpkin landed excess by 11.801242236024834 feet.
+
+Enter the angle and velocity for try #4: 
+
+For an angle of 45 degrees and velocity of 58,
+the pumpkin landed excess by 4.472049689440979 feet.
+
+Enter the angle and velocity for try #5: 
+
+For an angle of 45 degrees and velocity of 56,
+the pumpkin landed short by 2.608695652173921 feet.
+
+Sorry, you have run out of the pumpkins! You lose!
+
+--- Running again 3 ---
+ 
+
+Program to allow one to launch a pumpkin.
+You will enter the distance to the target.
+Then you will enter an angle and a velocity.
+The game will end if you have not hit the
+target in 5 tries (must conserve pumpkins!).
+Written by Simon Chu.
+
+Please enter a distance in feet: 
+
+Error: distance must be a number, not "x".
+
+--- Running again 3 ---
+ 
+
+Program to allow one to launch a pumpkin.
+You will enter the distance to the target.
+Then you will enter an angle and a velocity.
+The game will end if you have not hit the
+target in 5 tries (must conserve pumpkins!).
+Written by Simon Chu.
+
+Please enter a distance in feet: 
+
+Enter the angle and velocity for try #1: 
+
+For an angle of 45 degrees and velocity of 50,
+the pumpkin landed short by 22.36024844720498 feet.
+
+Enter the angle and velocity for try #2: 
+
+For an angle of 45 degrees and velocity of 55,
+the pumpkin landed short by 6.0559006211180275 feet.
+
+Enter the angle and velocity for try #3: 
+
+For an angle of 45 degrees and velocity of 60,
+the pumpkin landed excess by 11.801242236024834 feet.
+
+Enter the angle and velocity for try #4: 
+
+For an angle of 45 degrees and velocity of 58,
+the pumpkin landed excess by 4.472049689440979 feet.
+
+Enter the angle and velocity for try #5: 
+
+For an angle of 45 degrees and velocity of 57,
+the pumpkin landed excess by 0.9006211180124097 feet.
+
+Sorry, you have run out of the pumpkins! You lose!
+
+ 

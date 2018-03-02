@@ -1,0 +1,104 @@
+Username:  chus
+Date:      Tue Feb 21 01:11:45 EST 2017
+ 
+*** Running alpha.py with 3 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+
+For n = 3
+
+  ^
+ /_\
+/   \
+
+*** Running alpha.py with 21 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+
+For n = 21
+
+                    ^
+                   / \
+                  /   \
+                 /     \
+                /       \
+               /         \
+              /           \
+             /             \
+            /               \
+           /                 \
+          /___________________\
+         /                     \
+        /                       \
+       /                         \
+      /                           \
+     /                             \
+    /                               \
+   /                                 \
+  /                                   \
+ /                                     \
+/                                       \
+
+*** Running alpha.py with -4 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+Error: n must be >= 3, not -4
+
+*** Running alpha.py with 5 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+
+For n = 5
+
+    ^
+   / \
+  /___\
+ /     \
+/       \
+
+*** Running alpha.py with 6 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+Error: n must be an odd number, not 6
+
+*** Running alpha.py with 22 ***
+
+Program to print out the letter 'A' 
+in various sizes. 
+You will enter an odd number between 3 and 21 
+Written by Simon Chu. 
+
+Enter an odd number between 3 and 21: 
+
+Error: n must be <= 21, not 22
+

@@ -1,0 +1,68 @@
+Username:  chus
+Date:      Thu Feb 16 14:12:52 EST 2017
+ 
+*** Running encode.py ***
+
+This program will encode a message using
+a Caesar cipher.
+You will enter a key (number between -25 and 25). 
+Written by Simon Chu
+
+Enter a key (number between -25 and 25): 
+
+Enter a sentence: 
+
+With a key of 2
+
+Original line: are you a sourpuss?
+
+Encoded line:  ctg aqw c uqwtrwuu?
+
+
+This program will encode a message using
+a Caesar cipher.
+You will enter a key (number between -25 and 25). 
+Written by Simon Chu
+
+Enter a key (number between -25 and 25): 
+
+Enter a sentence: 
+
+With a key of -2
+
+Original line: xwyzabc
+
+Encoded line:  vuwxyza
+
+
+This program will encode a message using
+a Caesar cipher.
+You will enter a key (number between -25 and 25). 
+Written by Simon Chu
+
+Enter a key (number between -25 and 25): 
+
+Enter a sentence: 
+
+With a key of 20
+
+Original line: how now brown cow
+
+Encoded line:  biq hiq vliqh wiq
+
+
+This program will encode a message using
+a Caesar cipher.
+You will enter a key (number between -25 and 25). 
+Written by Simon Chu
+
+Enter a key (number between -25 and 25): 
+
+Enter a sentence: 
+
+With a key of -2
+
+Original line: ctg aqw c uqwtrwuu?
+
+Encoded line:  are you a sourpuss?
+

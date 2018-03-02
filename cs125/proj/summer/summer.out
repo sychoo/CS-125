@@ -1,0 +1,40 @@
+Username:  chus
+Date:      Wed Feb 8 16:04:57 EST 2017
+ 
+*** Running summer.py ***
+
+Program to add up the first
+n natural numbers.
+Written by Simon Chu.
+
+Enter a value for n: 
+
+The sum of the first 10 numbers is 
+55
+Calculated by (n + 1) n / 2 is 
+55.0
+
+
+Program to add up the first
+n natural numbers.
+Written by Simon Chu.
+
+Enter a value for n: 
+
+The sum of the first 3 numbers is 
+6
+Calculated by (n + 1) n / 2 is 
+6.0
+
+
+Program to add up the first
+n natural numbers.
+Written by Simon Chu.
+
+Enter a value for n: 
+
+The sum of the first 10000 numbers is 
+50005000
+Calculated by (n + 1) n / 2 is 
+50005000.0
+

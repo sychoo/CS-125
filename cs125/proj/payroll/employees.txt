@@ -1,0 +1,11 @@
+Barb,Moran,51,12.85
+Joy,Rinehimer,30,9.35
+Joe,Bellucci,45,9.55
+Dave,Flaim,37,17.70
+Betty,Iyriboz,54,8.50
+Mark,Zaidel,30,17.90
+Santa,Claus,49,8.85
+Terry,Boult,43,12.50
+Victor,Maitalan,34,13.85
+Tom,Andreyko,23,12.10
+Marge,Garman,39,9.10

@@ -1,0 +1,59 @@
+Username:  chus
+Date:      Mon Apr 10 15:42:02 EDT 2017
+ 
+--- Running payroll 1 ---
+ 
+
+This program will compute payroll.
+Written by Simon Chu.
+
+Please enter the employee file name: 
+
+For the file /home/mathcs/turnin/koch/employees1.txt
+
+First  Last          Hours  Wage   Reg Pay  TimeHalf DblTime  OvrTime GrossPay
+------ ------------- ----- ------ -------- --------- ------- -------- --------
+Barb   Moran           51  $12.85  $514.00  $ 96.38  $154.20  $250.57  $764.58
+Joy    Rinehimer       30  $ 9.35  $280.50  $  0.00  $  0.00  $  0.00  $280.50
+Joe    Bellucci        45  $ 9.55  $382.00  $ 71.62  $  0.00  $ 71.62  $453.62
+Dave   Flaim           37  $17.70  $654.90  $  0.00  $  0.00  $  0.00  $654.90
+Betty  Iyriboz         54  $ 8.50  $340.00  $ 63.75  $153.00  $216.75  $556.75
+Mark   Zaidel          30  $17.90  $537.00  $  0.00  $  0.00  $  0.00  $537.00
+Santa  Claus           49  $ 8.85  $354.00  $ 66.38  $ 70.80  $137.18  $491.18
+Terry  Boult           43  $12.50  $500.00  $ 56.25  $  0.00  $ 56.25  $556.25
+Victor Maitlan         34  $13.85  $470.90  $  0.00  $  0.00  $  0.00  $470.90
+Tom    Andreyko        23  $12.10  $278.30  $  0.00  $  0.00  $  0.00  $278.30
+Marge  Garman          39  $ 9.10  $354.90  $  0.00  $  0.00  $  0.00  $354.90
+
+AVERAGE GROSS PAY  ------------------------------------------------->  $490.81
+
+--- Running payroll 2 ---
+ 
+
+This program will compute payroll.
+Written by Simon Chu.
+
+Please enter the employee file name: 
+
+For the file /home/mathcs/turnin/koch/employees2.txt
+
+First  Last          Hours  Wage   Reg Pay  TimeHalf DblTime  OvrTime GrossPay
+------ ------------- ----- ------ -------- --------- ------- -------- --------
+Bill   Brown           42  $10.75  $430.00  $ 32.25  $  0.00  $ 32.25  $462.25
+Sam    Snee            67  $ 9.40  $376.00  $ 70.50  $413.60  $484.10  $860.10
+Sally  Smart           35  $17.10  $598.50  $  0.00  $  0.00  $  0.00  $598.50
+Billy  Blue            70  $10.15  $406.00  $ 76.12  $507.50  $583.62  $989.62
+Ron    Pane            64  $ 9.10  $364.00  $ 68.25  $345.80  $414.05  $778.05
+Helen  Heath           72  $ 5.25  $210.00  $ 39.38  $283.50  $322.88  $532.88
+Jane   Jones           30  $20.35  $610.50  $  0.00  $  0.00  $  0.00  $610.50
+Karen  Kilo            45  $ 9.00  $360.00  $ 67.50  $  0.00  $ 67.50  $427.50
+Larry  Limo            41  $10.50  $420.00  $ 15.75  $  0.00  $ 15.75  $435.75
+Mary   Milk            50  $ 7.65  $306.00  $ 57.38  $ 76.50  $133.88  $439.88
+Nancy  Nero            40  $20.00  $800.00  $  0.00  $  0.00  $  0.00  $800.00
+Peter  Piper           60  $ 8.75  $350.00  $ 65.62  $262.50  $328.12  $678.12
+Quincy Quiet           20  $ 9.60  $192.00  $  0.00  $  0.00  $  0.00  $192.00
+Robert Reed            67  $ 9.30  $372.00  $ 69.75  $409.20  $478.95  $850.95
+Tom    Trouble         63  $ 8.65  $346.00  $ 64.88  $311.40  $376.28  $722.28
+
+AVERAGE GROSS PAY  ------------------------------------------------->  $625.23
+

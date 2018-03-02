@@ -1,0 +1,30 @@
+# File: encode.py
+# Author: Simon Chu
+# Date: 2/16/17
+# Purpose: Encode the message
+
+def main():
+
+    print()
+    print("This program will encode a message using")
+    print("a Caesar cipher.")
+    print("You will enter a key (number between 1 and 25). ")
+    print("Written by Simon Chu")
+    print()
+
+    key = int(input("Enter a key (number between 1 and 25). "))
+    print()
+    print()
+    sentence = input("Enter a sentence: ")
+    print()
+    print()
+    sentenceLower = sentence.lower()
+    print()
+    print()
+    print("With a key of " + str(key))
+    print()
+    print("Original line: " + sentence)
+    
+
+              
+main()

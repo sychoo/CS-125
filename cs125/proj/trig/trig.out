@@ -1,0 +1,33 @@
+Username:  chus
+Date:      Tue Apr 4 08:13:09 EDT 2017
+ 
+*** Running trig.py with 60, 5 ***
+
+Program to approximate sin and cos.
+You will be asked to enter an angle and
+Written by Simon Chu
+
+Enter an angle (in degrees): 
+Enter the number of terms to use: 
+
+For 5 terms:
+
+Function    Approx. Value    Actual Value     Difference
+sin(60)     0.866025445100   0.866025403784   0.000000041315
+cos(60)     0.500000433433   0.500000000000   0.000000433433
+
+*** Running trig.py with 90, 7 ***
+
+Program to approximate sin and cos.
+You will be asked to enter an angle and
+Written by Simon Chu
+
+Enter an angle (in degrees): 
+Enter the number of terms to use: 
+
+For 7 terms:
+
+Function    Approx. Value    Actual Value     Difference
+sin(90)     1.000000000663   1.000000000000   0.000000000663
+cos(90)     0.000000006321   0.000000000000   0.000000006321
+

@@ -1,0 +1,29 @@
+Username:  chus
+Date:      Tue Feb 28 11:29:52 EST 2017
+ 
+*** Running moving.py ***
+
+Program to encode and decode a sentence
+moving characters 13 places.
+You will be asked to enter a sentence.
+Written by Simon Chu.
+
+Enter a sentence: 
+
+Original sentence: Now is the time
+Encoded version:   Abj vf gur gvzr
+Decoded version:   Now is the time
+
+*** Running moving.py ***
+
+Program to encode and decode a sentence
+moving characters 13 places.
+You will be asked to enter a sentence.
+Written by Simon Chu.
+
+Enter a sentence: 
+
+Original sentence: How Much Wood Could a Woodchuck Chuck?
+Encoded version:   Ubj Zhpu Jbbq Pbhyq n Jbbqpuhpx Puhpx?
+Decoded version:   How Much Wood Could a Woodchuck Chuck?
+

@@ -1,0 +1,242 @@
+Username:  chus
+Date:      Fri Apr 14 12:55:25 EDT 2017
+ 
+*** Running triangles.py with 2,5,# ***
+
+Program to draw triangles.
+Written by Simon Chu.
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+
+#####
+ ###
+  #
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+The program has stopped. 
+
+*** Running triangles.py with 1,11,@ ***
+
+Program to draw triangles.
+Written by Simon Chu.
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+
+     @
+    @@@
+   @@@@@
+  @@@@@@@
+ @@@@@@@@@
+@@@@@@@@@@@
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+The program has stopped. 
+
+*** Running triangles.py with 1,5,@ and 2,5,@ ***
+
+Program to draw triangles.
+Written by Simon Chu.
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+
+  @
+ @@@
+@@@@@
+@@@@@
+ @@@
+  @
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+The program has stopped. 
+
+*** Running triangles.py with 3,5,3,+ ***
+
+Program to draw triangles.
+Written by Simon Chu.
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+
++++++++++++
+ +++++++++
+  +++++++
+   +++++
+    +++
+     +
+     +
+    +++
+   +++++
+  +++++++
+ +++++++++
++++++++++++
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+The program has stopped. 
+
+*** Running triangles.py xmas tree ***
+
+Program to draw triangles.
+Written by Simon Chu.
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+Enter size of base: 
+Enter character used to draw: 
+Enter number of blanks preceding each line: 
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+     *
+    ***
+   *****
+
+Please choose an option: 
+        1, for triangle pointing up; 
+        2, for triangle pointing down; 
+        3, to print the result; 
+        4, to add a blank line; 
+        5, to stop this program; 
+--> 
+The program has stopped. 
+

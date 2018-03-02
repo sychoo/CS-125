@@ -1,0 +1,11 @@
+Username:  chus
+Date:      Thu Jan 26 14:44:19 EST 2017
+ 
+*** Running numbers.py with 10 ***
+Written by Simon Chu.
+Enter an integer: The original number is 10
+The answer is 5
+*** Running numbers.py with 257 ***
+Written by Simon Chu.
+Enter an integer: The original number is 257
+The answer is 5

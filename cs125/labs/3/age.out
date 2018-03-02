@@ -1,0 +1,55 @@
+Username:  chus
+Date:      Fri Feb 3 09:41:48 EST 2017
+ 
+*** Running age.py ***
+
+Program to calculate your age.
+Written by Simon Chu.
+
+Enter the month of your birth (1-12): 
+Enter the day of the month of your birth (1-31): 
+Enter the year of your birth: 
+
+Today's date is 2 / 2 / 2017
+Your birthday is on 10 / 31 / 1948
+Your age is 68 years old.
+
+*** Running age.py again ***
+
+Program to calculate your age.
+Written by Simon Chu.
+
+Enter the month of your birth (1-12): 
+Enter the day of the month of your birth (1-31): 
+Enter the year of your birth: 
+
+Today's date is 2 / 2 / 2017
+Your birthday is on 7 / 17 / 1991
+Your age is 25 years old.
+
+*** Running age.py again ***
+
+Program to calculate your age.
+Written by Simon Chu.
+
+Enter the month of your birth (1-12): 
+Enter the day of the month of your birth (1-31): 
+Enter the year of your birth: 
+
+Today's date is 2 / 2 / 2017
+Your birthday is on 1 / 27 / 1992
+Your age is 25 years old.
+
+*** Running age.py again ***
+
+Program to calculate your age.
+Written by Simon Chu.
+
+Enter the month of your birth (1-12): 
+Enter the day of the month of your birth (1-31): 
+Enter the year of your birth: 
+
+Today's date is 2 / 2 / 2017
+Your birthday is on 9 / 27 / 1992
+Your age is 24 years old.
+

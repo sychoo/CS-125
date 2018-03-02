@@ -1,0 +1,19 @@
+# File: age.py
+
+def main():
+    print()
+
+    print("Program to Calculate your age.")
+    print("Written by Simon Chu.")
+
+    month = input("Enter the month of your birth (1-12):")
+    print()
+    print()
+    day = input("Enter the day of the month of your birth (1-31):")
+    print()
+    print()
+    year = input("Enter the year of your birth:")
+    print()
+    print()
+
+    
